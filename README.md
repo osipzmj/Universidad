@@ -4,3 +4,7 @@
 
 3. Hola
 4, manjeo de diff
+
+# OBJETIVO DEL PROYECTO
+
+ESTE PROYECTO ES DE PRUEBAS
