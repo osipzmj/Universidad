@@ -8,3 +8,7 @@
 # OBJETIVO DEL PROYECTO
 
 ESTE PROYECTO ES DE PRUEBAS
+
+# PRIMER CAMBIO DESDE GITHUB
+
+1.- Cambio desde el repositorio local
